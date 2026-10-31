@@ -1,0 +1,10 @@
+build/
+cmake-build-*/
+.vs/
+.vscode/
+.idea/
+*.exe
+*.o
+*.obj
+work
+tsan
